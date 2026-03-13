@@ -8,5 +8,5 @@ int main() {
 /*この場合、gcc -o test test.c
           ./testで出力できる
 gcc -o test test.c && ./test でも可能
-          */
+test          */
 
