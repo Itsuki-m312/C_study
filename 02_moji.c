@@ -11,3 +11,5 @@ int main (void){
     printf("こんばんは\n");
     return 0;
 }
+
+//  \n で改行することができる \ は option + ¥
